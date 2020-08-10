@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block title %}Enclaves{% endblock %}
+
+
+{% block content %}
+  <div class="row">
+    <div class="col-md-12">
+      <ul>
+        {% for enclave in enclaves %}
+        <li>
+          <a href="{{ url_for('enclave_show', enclave_id=enclave.id) }}">
+            {{ enclave.name }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+{% endblock %}

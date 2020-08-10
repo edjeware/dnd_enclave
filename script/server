@@ -1,0 +1,4 @@
+export FLASK_APP=dnd_enclave.app
+export FLASK_DEBUG=1
+pipenv run flask run --host=0.0.0.0
+

@@ -1,0 +1,6 @@
+pipenv install --dev
+
+rm -f /tmp/test.db
+pipenv run python -c "from dnd_enclave.app import db; db.create_all()"
+
+script/bootstrap

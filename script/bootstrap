@@ -1,0 +1,1 @@
+pipenv run python -c "import dnd_enclave.loader as loader; loader.load_yaml('data.yaml')"
