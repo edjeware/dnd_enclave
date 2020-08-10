@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% block title %} Welcome to Daggerford {% endblock %}
+{% block title %} Welcome to {{ enclave.name }} {% endblock %}
 
 
 {% block content %}
@@ -26,7 +26,7 @@
       </ul>
     </div>
 
-    <div class="col-md-4">
+    <div class="col-md-8">
       <ul>
       {% for building in buildings %}
         <li>{{ building.id }} - {{ building.name }}</li>
