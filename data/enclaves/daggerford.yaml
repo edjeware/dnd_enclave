@@ -1,0 +1,469 @@
+enclaves:
+  - name: Daggerford
+    buildings:
+      - id: 1
+        name: Towers
+        category: government
+      - id: 2
+        name: Cisterns
+        category: government
+      - id: 3
+        name: Farmers' Gate
+        category: gate
+      - id: 4
+        name: River Gate
+        category: government
+      - id: 5
+        name: Delfen's Tower - Delfen Ondabarl
+        category: government
+      - id: 6
+        name: Ducal Castle - Bronwyn Daggerford/Gwydlon Pen Dafwyd/Pwyll “Greatshout”
+          Daggerford
+        category: government
+      - id: 7
+        name: Lathander's Temple - Moonglow Tower
+        category: [healing, temple]
+      - id: 8
+        name: Stables
+        category: animal care
+      - id: 9
+        name: Mikitan Shipyards - Mikitan
+        category: shipyard
+      - id: 10
+        name: Mariners' Alliance
+        category: ship
+        is_guild: true
+      - id: 11
+        name: Kaulbach
+        category: residence
+      - id: 12
+        name: Olin
+        category: residence
+      - id: 13
+        name: Soumet
+        category: residence
+      - id: 14
+        name: Pauldine
+        category: residence
+      - id: 15
+        name: Nanteuil
+        category: residence
+      - id: 16
+        name: Watermen's Circle
+        category: food
+        is_guild: true
+      - id: 17
+        name: Maranta
+        category: residence
+      - id: 18
+        name: Weichert
+        category: residence
+      - id: 19
+        name: Delisle
+        category: residence
+      - id: 20
+        name: Trommen
+        category: residence
+      - id: 21
+        name: Ramusio
+        category: residence
+      - id: 22
+        name: Archiloque
+        category: residence
+      - id: 23
+        name: Janssen
+        category: residence
+      - id: 24
+        name: Zaluski
+        category: residence
+      - id: 25
+        name: Valmiki
+        category: residence
+      - id: 26
+        name: The Flying Fish - Carrl
+        category: food
+      - id: 27
+        name: Tempus' Shrine - Table of the Sword
+        category: [healing, temple]
+      - id: 28
+        name: Heralds' and Runners' Union
+        category: library
+        is_guild: true
+      - id: 29
+        name: Barracks
+        category: military
+      - id: 30
+        name: Tenison
+        category: residence
+      - id: 31
+        name: Dekoran Boatwright - Dekoran
+        category: boatwright
+      - id: 32
+        name: Youmans’s Residence
+        category: residence
+      - id: 33
+        name: Cromach
+        category: residence
+      - id: 34
+        name: Jail
+        category: government
+      - id: 35
+        name: Delimbiyr Manse
+        category: residence
+      - id: 36
+        name: Constable
+        category: government
+      - id: 37
+        name: Black Stone Inn - Gildamesh
+        category: inn
+      - id: 38
+        name: Pleaders' Consortium
+        category: [law, library]
+        is_guild: true
+      - id: 39
+        name: Blacksmiths' Guildhouse
+        category: blacksmith
+        is_guild: true
+      - id: 40
+        name: Derval Ironeater
+        category: residence
+      - id: 41
+        name: Duneden
+        category: residence
+      - id: 42
+        name: Moneylenders' Coalition
+        category: bank
+        is_guild: true
+      - id: 43
+        name: River Shining
+        category: tavern
+      - id: 44
+        name: The Clean Chin - Garick Honestone
+        category: [barbers, healing]
+      - id: 45
+        name: Darfin Longwalker
+        category: residence
+      - id: 46
+        name: ???
+        category: empty
+      - id: 47
+        name: Chateau Elite Inn - Papa Blekandssen
+        category: inn
+      - id: 48
+        name: Bjorn Tenements
+        category: residence
+      - id: 49
+        name: Korbus's Jewellery and Fine Ornaments
+        category: jewlery
+      - id: 50
+        name: Farrel's Fine Jewellery and Apparel
+        category: [jewlery, clothing]
+      - id: 51
+        name: ???
+        category: empty
+      - id: 52
+        name: Nartan's Fine Foods - Nartan
+        category: food
+      - id: 53
+        name: Lady Luck
+        category: tavern
+      - id: 54
+        name: Merchants' Guild
+        category: government
+      - id: 55
+        name: Jewellers’ Congress
+        category: jewlery
+        is_guild: true
+      - id: 56
+        name: Derval's Bright Blade
+        category: blacksmith
+      - id: 57
+        name: Kryptgarden Scrolls
+        category: library
+      - id: 58
+        name: Tailors' Federation
+        category: clothing
+        is_guild: true
+      - id: 59
+        name: Tanners' Council
+        category: clothing
+        is_guild: true
+      - id: 60
+        name: Thinkers' Fraternity
+        category: [law, library]
+        is_guild: true
+      - id: 61
+        name: Youatt
+        category: residence
+      - id: 62
+        name: Wayfel
+        category: residence
+      - id: 63
+        name: Physicians' Order
+        category: healing
+        is_guild: true
+      - id: 64
+        name: Taverners' Confederation
+        category: tavern
+        is_guild: true
+      - id: 65
+        name: Owenden
+        category: residence
+      - id: 66
+        name: Garrick
+        category: residence
+      - id: 67
+        name: Cromach's Smithy
+        category: blacksmith
+      - id: 68
+        name: ???
+        category: empty
+      - id: 69
+        name: Oleg's Weaponforge
+        category: blacksmith
+      - id: 70
+        name: Quarenghi
+        category: residence
+      - id: 71
+        name: Garth
+        category: residence
+      - id: 72
+        name: Kira
+        category: residence
+      - id: 73
+        name: Tymora's Shrine - Fairfortune Hall
+        category: [healing, temple]
+      - id: 74
+        name: Oleg
+        category: residence
+      - id: 75
+        name: Leatherworkers' Conglomerate
+        category: clothing
+        is_guild: true
+      - id: 76
+        name: Farrel
+        category: residence
+      - id: 77
+        name: Baergon “Bluesword”
+        category: residence
+      - id: 78
+        name: Delfen “Yellowknife” Ondabarl
+        category: residence
+      - id: 79
+        name: Emser
+        category: residence
+      - id: 80
+        name: Ines
+        category: residence
+      - id: 81
+        name: Bohle
+        category: residence
+      - id: 82
+        name: Scribes' Friendship
+        category: [law, library]
+        is_guild: true
+      - id: 83
+        name: Yarth Stowage - Yarth of Berun
+        category: warehouse
+      - id: 84
+        name: ???
+        category: empty
+      - id: 85
+        name: Oryv's Cloth Emporium - Oryv
+        category: clothing
+      - id: 86
+        name: Sorceller's Encapsulate
+        category: [wizards, library]
+        is_guild: true
+      - id: 87
+        name: ???
+        category: empty
+      - id: 88
+        name: Derf's Skin Art - Derf/Sniden Elkslodge/Zarebor the Piercer
+        category: tattoos
+      - id: 89
+        name: Fences' Syndicate
+        category: fence
+        is_guild: true
+      - id: 90
+        name: Schlegel
+        category: residence
+      - id: 91
+        name: Daggerford Inn
+        category: inn
+      - id: 92
+        name: Kelson Darktreader
+        category: residence
+      - id: 93
+        name: Llewellyn Longhand
+        category: residence
+      - id: 94
+        name: Liam Sunmist
+        category: residence
+      - id: 95
+        name: Chauntea's Shrine - Harvest House
+        category: [healing, temple]
+      - id: 96
+        name: Ransaran - Sergeant at Arms
+        category: residence
+      - id: 97
+        name: Ruckert
+        category: residence
+      - id: 98
+        name: Wiston Apothecary - Winston of Yartar
+        category: healing
+      - id: 99
+        name: Filvendor Lightfoot
+        category: residence
+      - id: 100
+        name: Korbus Brightjewel
+        category: residence
+      - id: 101
+        name: Uilkens
+        category: residence
+      - id: 102
+        name: Pascal Tenements
+        category: residence
+      - id: 103
+        name: Xylander
+        category: residence
+      - id: 104
+        name: Shalendra Dare-all
+        category: residence
+      - id: 105
+        name: Maerovyna Maelwyn
+        category: residence
+      - id: 106
+        name: Farmers' Society
+        category: farming
+        is_guild: true
+      - id: 107
+        name: ???
+        category: unknown
+      - id: 108
+        name: The Grand Playhouse
+        category: wores
+      - id: 109
+        name: ???
+        category: empty
+      - id: 110
+        name: Happy Cow
+        category: tavern
+      - id: 111
+        name: Vix the Chandler - Vix
+        category: candles
+      - id: 112
+        name: Fulbar Hardcheese
+        category: residence
+      - id: 113
+        name: Sherlen Spearslayer
+        category: residence
+      - id: 114
+        name: Maelwyn
+        category: residence
+      - id: 115
+        name: Animal Handlers' Affiliation
+        category: animal care
+        is_guild: true
+      - id: 116
+        name: MacClure
+        category: residence
+      - id: 117
+        name: Cadogan
+        category: residence
+      - id: 118
+        name: Dragonback Inn - Alain
+        category: inn
+      - id: 119
+        name: ???
+        category: empty
+      - id: 120
+        name: Kyrie
+        category: residence
+      - id: 121
+        name: Aswansea
+        category: residence
+      - id: 122
+        name: Cork
+        category: residence
+      - id: 123
+        name: Jesse
+        category: residence
+      - id: 124
+        name: Filarion Filvendorson
+        category: residence
+      - id: 125
+        name: Thieves' Brotherhood
+        category: thieves
+        is_guild: true
+      - id: 126
+        name: Czszudleaux
+        category: residence
+      - id: 127
+        name: Hadrion
+        category: residence
+      - id: 128
+        name: Paine
+        category: residence
+      - id: 129
+        name: Falconer
+        category: residence
+      - id: 130
+        name: Guildmasters' Hall
+        category: government
+        is_guild: true
+      - id: 131
+        name: ???
+        category: empty
+      - id: 132
+        name: Nicomantis
+        category: residence
+      - id: 133
+        name: Bando the Lame
+        category: residence
+      - id: 134
+        name: Demetira Landscraper
+        category: residence
+      - id: 135
+        name: Potter's Wheel - Marcus
+        category: pots
+      - id: 136
+        name: Wayfel's Smithy
+        category: blacksmith
+      - id: 137
+        name: ???
+        category: empty
+      - id: 138
+        name: Lamet
+        category: residence
+      - id: 139
+        name: ???
+        category: empty
+      - id: 140
+        name: Carpenters' League
+        category: ship
+        is_guild: true
+      - id: 141
+        name: Zeno
+        category: residence
+      - id: 142
+        name: Behring
+        category: residence
+      - id: 143
+        name: Marketplace Storage
+        category: government
+      - id: 144
+        name: Caravan Gate
+        category: government
+      - id: 145
+        name: Marketplace
+        category: government
+      - id: 146
+        name: Drill Field
+        category: military
+      - id: 147
+        name: Commons
+        category: government
+      - id: 148
+        name: ???
+        category: empty

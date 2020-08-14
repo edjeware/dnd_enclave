@@ -1,0 +1,99 @@
+businesses:
+
+  - merchant_category: unknown
+    merchant_title: Inn / Tavern
+    groups:
+      food:
+        - crisped_worm_and_potatoes
+        - frogs_on_skewers
+        - green_chili_stew
+        - grilled_snake_and_macadamia
+        - humble_pie
+        - lizard_gruel_with_nutbread
+        - barbecued_gopher_legs
+        - bog-beetle dumplings
+        - bread-bowl stew
+        - leg_of_mutton_and_goose_eggs
+        - mushroom_stew_with_bread
+        - rabbit_and_baked_pumpkin
+        - squash_and_fish_soup
+        - broiled_salmon_and_potatoes
+        - cheese_pie_and_onion_soup
+        - grilled_wild_boar_chops
+        - rabbit_stew_and_crackers
+        - roast_chicken_and_potatoes
+        - baked_loin_of_pork_with_gravy
+        - beef_steak_and_kidney_pie
+        - buffaloaf_and_honeyed_corn
+        - elven_bread
+        - honey_braised_boar_ribs
+        - pork_chop_and_curds
+        - rack_of_lamb_platter
+        - wealthy_barbecued_tiger_fish_and_papaya
+        - chocolate_covered_ants_and_roast_pelican
+        - smoked_salmon_and_wild_berries
+        - stuffed_trout, cabbage, succotash and plum pudding
+        - roast_stag_in_antler_sauce
+        - spiced_monkey_tail_and_cashews
+        - goblinspit_ale
+        - grog
+        - turnip_wine
+        - dwarven_ale
+        - kings_ale
+        - spiced_ale
+        - trollbane_ale
+        - desert_star_wine
+        - wight_wine
+        - fey_wine
+        - lotus_leaf_wine
+        - stonesulder_wine
+        - wild_orchid_wine
+        - bacon_beer
+        - berry_brandy
+        - cactus_spirits
+        - honeysuckle_mead
+        - scorpionweed_reserve
+
+      lodging:
+        - inn_stay_squalid
+        - inn_stay_poor
+        - inn_stay_modest
+        - inn_stay_comfortable
+        - inn_stay_wealthy
+        - inn_stay_aristocratic
+
+      services:
+        - skilled_hireling
+        - untrained_hireling
+        - messenger
+
+  - merchant_category: unknown
+    merchant_title: Stables
+    groups:
+      mounts_and_other_animals:
+        - donkey_or_mule
+        - pony
+        - draft_horse
+        - riding_horse
+        - warhorse
+        - mastiff
+        - camel
+        - elephant
+      tack_harness_and_drawn_vehicles:
+        - barding
+        - bit_and_bridle
+        - carriage
+        - cart
+        - chariot
+        - feed
+        - pack
+        - riding
+        - military
+        - exotic
+        - saddlebags
+        - sled
+        - stabling
+        - wagon
+      services:
+        - coach_intra_city
+        - coach_inter_city

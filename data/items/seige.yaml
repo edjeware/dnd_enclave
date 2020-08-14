@@ -1,0 +1,138 @@
+items:
+  - id: ballista_light
+    name: Ballista Light 5ft
+    buy_price: 400gp
+    availability: village
+  - id: ballista_med
+    name: Ballista Med 5ft
+    buy_price: 600gp
+    availability: town
+  - id: ballista_heavy
+    name: Ballista Heavy 10ft
+    buy_price: 800gp
+    availability: city
+  - id: mangonel_light
+    name: Mangonel Light 10ft
+    buy_price: 500gp
+    availability: city
+  - id: mangonel_med
+    name: Mangonel Med 10ft
+    buy_price: 700gp
+    availability: town
+  - id: mangonel_heavy
+    name: Mangonel Heavy 15ft
+    buy_price: 1000gp
+    availability: city
+  - id: trebuchet
+    name: Trebuchet 20ft
+    buy_price: 1500gp
+    availability: city
+  - id: alchemist_fire
+    name: Alchemist Fire
+    buy_price: 200gp
+    availability: town
+  - id: caltrop_bundle
+    name: Caltrop Bundle
+    buy_price: 50gp
+    availability: village
+  - id: chain_shot
+    name: Chain Shot
+    buy_price: 50gp
+    availability: village
+  - id: empty_bundle
+    name: Empty Bundle
+    buy_price: 25gp
+    availability: village
+  - id: fire_barrel
+    name: Fire Barrel
+    buy_price: 150gp
+    availability: town
+  - id: liquid_ice
+    name: Liquid Ice (rare)
+    buy_price: 400gp
+    availability: city
+  - id: plague_bundle
+    name: Plague Bundle (Evil)
+    buy_price: 80gp
+    availability: city
+  - id: smoke_shot
+    name: Smoke Shot
+    buy_price: 250gp
+    availability: town
+  - id: empty_vial_shot
+    name: Empty Vial Shot (rare)
+    buy_price: 65gp
+    availability: town
+  - id: bolt_magazine
+    name: Bolt Magazine (3) +5ft
+    buy_price: 400gp
+    availability: village
+  - id: bolt_magazine_special
+    name: Bolt Magazine (special 3) +5ft
+    buy_price: 600gp
+    availability: town
+  - id: bolt_magazine_large
+    name: Bolt Magazine (5) +5ft
+    buy_price: 800gp
+    availability: city
+  - id: high_tension_rope
+    name: High tension Rope
+    buy_price: 500gp
+    availability: city
+  - id: range_finder
+    name: Range Finder (rare)
+    buy_price: 700gp
+    availability: town
+  - id: spyglass
+    name: Spyglass 15ft
+    buy_price: 1000gp
+    availability: city
+  - id: auto_reloader
+    name: Auto Reloader (rare) 20ft
+    buy_price: 1500gp
+    availability: city
+  - id: replacement_parts_set
+    name: Replacement Parts Set +5ft
+    buy_price: 400gp
+    availability: village
+  - id: special_replacement_parts
+    name: special Replacement Parts +5ft
+    buy_price: 600gp
+    availability: town
+  - id: ropespool
+    name: Ropespool +5ft
+    buy_price: 800gp
+    availability: city
+  - id: ropespool_heavy
+    name: Ropespool Heavy
+    buy_price: 500gp
+    availability: city
+  - id: rotating_base
+    name: Rotating Base
+    buy_price: 700gp
+    availability: town
+  - id: rotating_base_heavy
+    name: Rotating Base Heavy 15ft
+    buy_price: 1000gp
+    availability: city
+  - id: shielding
+    name: Shielding 20ft
+    buy_price: 1500gp
+    availability: city
+  - id: shielding_heavy
+    name: Shielding Heavy +5ft
+    buy_price: 400gp
+    availability: village
+  - id: manual_wench
+    name: Manual Wench +5ft
+    buy_price: 600gp
+    availability: town
+  - id: automatic_wench
+    name: Automatic Wench +5ft
+    buy_price: 800gp
+    availability: city
+  - id: manual_wench_heavy
+    name: Manual Wench Heavy
+    buy_price: 500gp
+    availability: city
+

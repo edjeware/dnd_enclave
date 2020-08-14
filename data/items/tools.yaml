@@ -1,0 +1,277 @@
+items:
+  - id: healers_kit
+    name: Healer's Kit
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: town
+  - id: poisoners_kit
+    name: Poisoner's Kit
+    buy_price: 50gp
+    sell_price: 25gp
+    availability: village
+  - id: thieves_tools
+    name: Thieves' Tools
+    buy_price: 25gp
+    sell_price: 12gp
+    availability: village
+
+  - id: whetstone
+    name: Whetstone
+    buy_price: 1cp
+    sell_price: 1cp
+    availability: village
+  - id: piton
+    name: Piton
+    buy_price: 5cp
+    sell_price: 2cp
+    availability: village
+  - id: sledge_hammer
+    name: Sledge Hammer
+    buy_price: 2gp
+    sell_price: 1gp
+    availability: village
+  - id: shovel
+    name: Shovel
+    buy_price: 2gp
+    sell_price: 1gp
+    availability: village
+  - id: mess_kit
+    name: Mess Kit
+    buy_price: 2sp
+    sell_price: 1sp
+    availability: town
+  - id: miners_pick
+    name: Miner's Pick
+    buy_price: 2gp
+    sell_price: 1gp
+    availability: village
+  - id: mirror
+    name: Mirror
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: town
+  - id: oil_flask
+    name: Oil Flask
+    buy_price: 1sp
+    sell_price: 5cp
+    availability: village
+  - id: ladder
+    name: Ladder (10 ft)
+    buy_price: 1sp
+    sell_price: 5cp
+    availability: village
+  - id: lamp
+    name: Lamp
+    buy_price: 5sp
+    sell_price: 25cp
+    availability: village
+  - id: lantern
+    name: Lantern
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: town
+  - id: lock
+    name: Lock
+    buy_price: 10gp
+    sell_price: 5gp
+    availability: village
+  - id: hunting_trap
+    name: Hunting Trap
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: village
+  - id: hammer
+    name: Hammer
+    buy_price: 1gp
+    sell_price: 5sp
+    availability: village
+  - id: healers_kit
+    name: Healer's Kit
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: city
+  - id: hempen_rope
+    name: Hempen Rope (50 ft)
+    buy_price: 1gp
+    sell_price: 5sp
+    availability: village
+  - id: crowbar
+    name: Crowbar
+    buy_price: 2gp
+    sell_price: 1gp
+    availability: village
+  - id: climbers_kit
+    name: Climber's Kit
+    buy_price: 25gp
+    sell_price: 12gp
+    availability: town
+  - id: flask_oil
+    name: Flask Oil
+    buy_price: 1sp
+    sell_price: 5cp
+    availability: village
+  - id: chain
+    name: Chain (10 feet)
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: village
+  - id: block_and_tackle
+    name: Block and Tackle
+    buy_price: 1gp
+    sell_price: 50sp
+    availability: town
+  - id: bucket
+    name: Bucket
+    buy_price: 5cp
+    sell_price: 2cp
+    availability: village
+  - id: caltrops
+    name: Caltrops (bag of 20)
+    buy_price: 5sp
+    sell_price: 25cp
+    availability: town
+  - id: candle
+    name: Candle
+    buy_price: 1cp
+    sell_price: 1cp
+    availability: village
+  - id: ball_bearings
+    name: Ball Bearings
+    buy_price: 1gp
+    sell_price: 5sp
+    availability: village
+  - id: tinderbox
+    name: Tinderbox
+    buy_price: 5sp
+    sell_price: 25cp
+    availability: village
+  - id: torch
+    name: Torch
+    buy_price: 1cp
+    sell_price: 1cp
+    availability: village
+  - id: waterskin
+    name: Waterskin
+    buy_price: 2sp
+    sell_price: 1sp
+    availability: village
+  - id: alchemists_supplies
+    name: Alchemist's Supplies
+    buy_price: 50gp
+    sell_price: 25gp
+    availability: village
+    category: Artisan's Tools
+  - id: alchemists_tools
+    name: Alchemist's Tools
+    buy_price: 15gp
+    sell_price: 7gp
+    availability: village
+    category: Artisan's Tools
+  - id: brewers_supplies
+    name: Brewer's Supplies
+    buy_price: 20gp
+    sell_price: 10gp
+    availability: village
+    category: Artisan's Tools
+  - id: calligraphers_tools
+    name: Calligrapher's Tools
+    buy_price: 10gp
+    sell_price: 5gp
+    availability: town
+    category: Artisan's Tools
+  - id: carpenters_tools
+    name: Carpenter's Tools
+    buy_price: 8gp
+    sell_price: 4gp
+    availability: village
+    category: Artisan's Tools
+  - id: cartographers_tools
+    name: Cartographer's Tools
+    buy_price: 15gp
+    sell_price: 7gp
+    availability: town
+    category: Artisan's Tools
+  - id: cobblers_tools
+    name: Cobbler's Tools
+    buy_price: 25gp
+    sell_price: 14gp
+    availability: village
+    category: Artisan's Tools
+  - id: cooks_utensils
+    name: Cook's Utensils
+    buy_price: 50gp
+    sell_price: 25gp
+    availability: village
+    category: Artisan's Tools
+  - id: glassblowers_tools
+    name: Glassblower's Tools
+    buy_price: 30gp
+    sell_price: 15gp
+    availability: city
+    category: Artisan's Tools
+  - id: herbalist_kit
+    name: Herbalist Kit
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: town
+    category: Artisan's Tools
+  - id: jewelers_tools
+    name: Jeweler's Tools
+    buy_price: 25gp
+    sell_price: 14gp
+    availability: city
+    category: Artisan's Tools
+  - id: leatherworkers_tools
+    name: Leatherworker's Tools
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: village
+    category: Artisan's Tools
+  - id: masons_tools
+    name: Mason's Tools
+    buy_price: 10gp
+    sell_price: 5gp
+    availability: village
+    category: Artisan's Tools
+  - id: navigators_tools
+    name: Navigator's Tools
+    buy_price: 25gp
+    sell_price: 12gp
+    availability: village
+    category: Artisan's Tools
+  - id: poisoners_kit
+    name: Poisoner's Kit
+    buy_price: 50gp
+    sell_price: 25gp
+    availability: village
+    category: Artisan's Tools
+  - id: potters_tools
+    name: Potter's Tools
+    buy_price: 10gp
+    sell_price: 5gp
+    availability: village
+    category: Artisan's Tools
+  - id: smiths_tools
+    name: Smith's Tools
+    buy_price: 20gp
+    sell_price: 10gp
+    availability: city
+    category: Artisan's Tools
+  - id: tinkers_tools
+    name: Tinker's Tools
+    buy_price: 50gp
+    sell_price: 25gp
+    availability: town
+    category: Artisan's Tools
+  - id: weavers_tools
+    name: Weaver's Tools
+    buy_price: 1gp
+    sell_price: 5sp
+    availability: village
+    category: Artisan's Tools
+  - id: woodcarvers_tools
+    name: Woodcarver's Tools
+    buy_price: 1gp
+    sell_price: 5sp
+    availability: village
+    category: Artisan's Tools

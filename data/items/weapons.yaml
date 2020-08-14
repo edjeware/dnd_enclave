@@ -1,0 +1,237 @@
+items:
+  - id: club
+    name: Club
+    buy_price: 1sp
+    sell_price: 5cp
+    availability: city
+    category: simple_melee_weapons
+  - id: dagger
+    name: Dagger
+    buy_price: 2gp
+    sell_price: 1gp
+    availability: village
+    category: simple_melee_weapons
+  - id: greatclub
+    name: Greatclub
+    buy_price: 2sp
+    sell_price: 1sp
+    availability: town
+    category: simple_melee_weapons
+  - id: handaxe
+    name: Handaxe
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: village
+    category: simple_melee_weapons
+  - id: javelin
+    name: Javelin
+    buy_price: 5sp
+    sell_price: 25sp
+    availability: town
+    category: simple_melee_weapons
+  - id: light_hammer
+    name: Light Hammer
+    buy_price: 2gp
+    sell_price: 1gp
+    availability: town
+    category: simple_melee_weapons
+  - id: quarterstaff
+    name: Quarterstaff
+    buy_price: 2sp
+    sell_price: 1sp
+    availability: town
+    category: simple_melee_weapons
+  - id: sickle
+    name: Sickle
+    buy_price: 1gp
+    sell_price: 5sp
+    availability: town
+    category: simple_melee_weapons
+  - id: spear
+    name: spear
+    buy_price: 1gp
+    sell_price: 5sp
+    availability: village
+    category: simple_melee_weapons
+  - id: battleaxe
+    name: Battleaxe
+    buy_price: 10gp
+    sell_price: 5gp
+    availability: village
+    category: martial_melee_weapons
+  - id: flail
+    name: Flail
+    buy_price: 10gp
+    sell_price: 5gp
+    availability: town
+    category: martial_melee_weapons
+  - id: glaive
+    name: Glaive
+    buy_price: 20gp
+    sell_price: 10gp
+    availability: town
+    category: martial_melee_weapons
+  - id: greataxe
+    name: Greataxe
+    buy_price: 30gp
+    sell_price: 15gp
+    availability: village
+    category: martial_melee_weapons
+  - id: greatsword
+    name: Greatsword
+    buy_price: 50gp
+    sell_price: 25gp
+    availability: village
+    category: martial_melee_weapons
+  - id: halberd
+    name: Halberd
+    buy_price: 20gp
+    sell_price: 10gp
+    availability: town
+    category: martial_melee_weapons
+  - id: lance
+    name: Lance
+    buy_price: 10gp
+    sell_price: 5gp
+    availability: city
+    category: martial_melee_weapons
+  - id: longsword
+    name: Longsword
+    buy_price: 15gp
+    sell_price: 7gp
+    availability: village
+    category: martial_melee_weapons
+  - id: maul
+    name: Maul
+    buy_price: 10gp
+    sell_price: 5gp
+    availability: town
+    category: martial_melee_weapons
+  - id: morningstar
+    name: Morningstar
+    buy_price: 15gp
+    sell_price: 7gp
+    availability: town
+    category: martial_melee_weapons
+  - id: pike
+    name: Pike
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: village
+    category: martial_melee_weapons
+  - id: rapier
+    name: Rapier
+    buy_price: 25gp
+    sell_price: 12gp
+    availability: city
+    category: martial_melee_weapons
+  - id: scimitar
+    name: Scimitar
+    buy_price: 25gp
+    sell_price: 12gp
+    availability: town
+    category: martial_melee_weapons
+  - id: shortsword
+    name: Shortsword
+    buy_price: 10gp
+    sell_price: 5gp
+    availability: village
+    category: martial_melee_weapons
+  - id: trident
+    name: Trident
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: city
+    category: martial_melee_weapons
+  - id: war_pick
+    name: War Pick
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: town
+    category: martial_melee_weapons
+  - id: warhammer
+    name: Warhammer
+    buy_price: 15gp
+    sell_price: 7gp
+    availability: village
+    category: martial_melee_weapons
+  - id: whip
+    name: Whip
+    buy_price: 2gp
+    sell_price: 1gp
+    availability: village
+    category: martial_melee_weapons
+  - id: blowgun
+    name: Blowgun
+    buy_price: 10gp
+    sell_price: 5gp
+    availability: city
+    category: martial_ranged_weapons
+  - id: crossbow_bolt_case
+    name: Crossbow Bolt Case
+    buy_price: 1gp
+    sell_price: 5sp
+    availability: village
+  - id: hand_crossbow
+    name: Hand Crossbow
+    buy_price: 75gp
+    sell_price: 32gp
+    availability: town
+    category: martial_ranged_weapons
+  - id: heavy_crossbow
+    name: Heavy Crossbow
+    buy_price: 50gp
+    sell_price: 25gp
+    availability: city
+    category: martial_ranged_weapons
+  - id: longbow
+    name: Longbow
+    buy_price: 50gp
+    sell_price: 25gp
+    availability: village
+    category: martial_ranged_weapons
+  - id: quiver
+    name: Quiver
+    buy_price: 1gp
+    sell_price: 25sp
+    availability: town
+
+
+  - id: light_crossbow
+    name: Light Crossbow
+    buy_price: 25gp
+    sell_price: 14gp
+    availability: village
+    category: light_ranged_weapon
+  - id: shortbow
+    name: Shortbow
+    buy_price: 25gp
+    sell_price: 14gp
+    availability: village
+    category: light_ranged_weapon
+
+  - id: arrows
+    name: Arrows (20)
+    buy_price: 1gp
+    sell_price: 5sp
+    availability: village
+  - id: blowgun_needles
+    name: Blowgun Needles (50)
+    buy_price: 1gp
+    sell_price: 5sp
+    availability: city
+  - id: crossbow_bolts
+    name: Crossbow Bolts (20)
+    buy_price: 1gp
+    sell_price: 5sp
+    availability: town
+  - id: dart
+    name: Dart
+    buy_price: 5cp
+    sell_price: 2cp
+    availability: village
+  - id: sling_bullets
+    name: Sling Bullets (20)
+    buy_price: 1sp
+    sell_price: 5cp
+    availability: village

@@ -1,0 +1,76 @@
+items:
+
+  - id: pound_of_wheat
+    name: 1 lb of wheat
+    buy_price: 1cp
+    availability: village
+  - id: pound_of_flour
+    name: 1 lb of flour
+    buy_price: 2cp
+    availability: village
+  - id: pound_of_salt
+    name: 1 lb of salt
+    buy_price: 5cp
+    availability: village
+  - id: square_yard_of_canvas
+    name: 1 sq. yd. of canvas
+    buy_price: 1sp
+    availability: village
+  - id: square_yard_of_cotton_cloth
+    name: 1 sq. yd. of cotton cloth
+    buy_price: 5sp
+    availability: village
+  - id: pound_of_ginger
+    name: 1 lb of ginger
+    buy_price: 1gp
+    availability: village
+  - id: pound_of_cinnamon
+    name: 1 lb of cinnamon
+    buy_price: 2gp
+    availability: village
+  - id: pound_of_pepper
+    name: 1 lb of pepper
+    buy_price: 2gp
+    availability: village
+  - id: pound_of_cloves
+    name: 1 lb of cloves
+    buy_price: 3gp
+    availability: village
+  - id: square_yard_of_linen
+    name: 1 sq. yd. of linen
+    buy_price: 5gp
+    availability: village
+  - id: square_yard_of_silk
+    name: 1 sq. yd. of silk
+    buy_price: 10gp
+    availability: village
+  - id: pound_of_saffron
+    name: 1 lb of saffron
+    buy_price: 15gp
+    availability: village
+  - id: iron
+    name: Iron (1 lb.)
+    buy_price: 1sp
+    sell_price: 1sp
+    availability: village
+  - id: copper
+    name: Copper (1 lb.)
+    buy_price: 5sp
+    sell_price: 5sp
+    availability: village
+  - id: silver
+    name: Silver (1 lb.)
+    buy_price: 5gp
+    sell_price: 5gp
+    availability: town
+  - id: gold
+    name: Gold (1 lb.)
+    buy_price: 50gp
+    sell_price: 50gp
+    availability: town
+  - id: platinum
+    name: Platinum (1 lb.)
+    buy_price: 500gp
+    sell_price: 500gp
+    availability: city
+

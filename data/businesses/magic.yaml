@@ -1,0 +1,133 @@
+businesses:
+
+  - merchant_category: unknown
+    merchant_title: Potion Shop
+    groups:
+      consumables:
+        - potion_of_healing
+        - philter_of_love
+        - potion_of_poison
+        - elixir_of_health
+        - potion_of_fire_breath
+        - potion_of_greater_healing
+        - potion_of_climbing
+        - potion_of_heroism
+        - potion_of_invisibility
+        - potion_of_mind_reading
+        - potion_of_water_breathing
+        - potion_of_animal_friendship
+        - potion_of_diminution
+        - potion_of_growth
+        - potion_of_gaseous_form
+        - potion_of_resistance
+        - potion_of_speed
+        - potion_of_superior_healing
+        - potion_of_flying
+        - potion_of_clairvoyance
+        - potion_of_vitality
+        - potion_of_supreme_healing
+        - potion_of_invulnerability
+      adventuring_gear:
+        - acid_vial
+        - alchemist_fire
+        - antitoxin_vial
+        - component_pouch
+        - flask_or_tankard
+        - glass_bottle
+        - healers_kit
+        - ink_and_pen
+        - jug_or_pitcher
+        - oil_flask
+        - perfume_vial
+        - basic_poison
+        - vial
+      tools:
+        - alchemists_supplies
+        - brewers_supplies
+        - cooks_utensils
+        - poisoners_kit
+
+  - merchant_category: unknown
+    merchant_title: Temple/Faith Supplies
+    groups:
+      adventuring_gear:
+        - alms_box
+        - bell
+        - blanket
+        - scripture_book
+        - candle
+        - censer
+        - chalk
+        - flask_or_tankard
+        - healers_kit
+        - amulet
+        - emblem
+        - reliquary
+        - flask_of_holy_water
+        - incense
+        - ink_and_pen
+        - lamp
+        - lantern
+        - flask_oil
+        - paper
+        - parchment
+        - perfume_vial
+        - potion_of_healing
+        - rations
+        - torch
+        - vial
+        - waterskin
+      tools:
+        - calligraphers_tools
+        - herbalist_kit
+        - flute
+        - lyre
+        - horn
+      services:
+        - cure_wounds
+        - gentle_repose
+        - lesser_restoration
+        - remove_curse
+        - revivify
+        - raise_dead
+
+
+  - merchant_category: unknown
+    merchant_title: Arcane Shop
+    groups:
+      adventuring_gear:
+        - abacus
+        - crystal
+        - orb
+        - rod
+        - staff
+        - wand
+        - glass_bottle
+        - component_pouch
+        - candle
+        - sprig_of_mistletoe
+        - totem
+        - wooden_staff
+        - yew_wand
+        - hourglass
+        - ink_and_pen
+        - paper
+        - parchment
+        - pouch
+        - robes
+        - spellbook
+        - vial
+      tools:
+        - alchemists_tools
+        - calligraphers_tools
+        - lute
+        - lyre
+      magic_items:
+        - cantrip_scroll
+        - level_one_scroll
+        - level_two_scroll
+        - level_three_scroll
+        - level_four_scroll
+        - level_five_scroll
+      services:
+        - magic_appraisal

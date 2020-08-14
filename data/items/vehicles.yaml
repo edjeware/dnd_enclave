@@ -1,0 +1,77 @@
+items:
+  - id: rowboat
+    name: Rowboat (2 mph)
+    buy_price: 50gp
+    availability: village
+  - id: keelboat
+    name: Keelboat (1 mph)
+    buy_price: 3000gp
+    availability: village
+  - id: sailing_ship
+    name: Sailing Ship (2 mph)
+    buy_price: 10000gp
+    availability: town
+  - id: longship
+    name: Longship (3 mph)
+    buy_price: 12000gp
+    availability: town
+  - id: wagon
+    name: Wagon
+    buy_price: 35gp
+    availability: village
+  - id: warship
+    name: Warship (3 mph)
+    buy_price: 25000gp
+    availability: city
+  - id: galley
+    name: Galley (4 mph)
+    buy_price: 30000gp
+    availability: city
+  - id: man_of_war
+    name: Man-of-war (4 mph)
+    buy_price: 50000gp
+    availability: city
+  - id: ships_passage
+    name: Ship's Passage
+    buy_formula: '{miles}*1gp'
+    availability: town
+  - id: pack
+    name: Pack
+    buy_price: 5gp
+    availability: village
+    category: saddle
+  - id: riding
+    name: Riding
+    buy_price: 10gp
+    availability: town
+    category: saddle
+  - id: military
+    name: Military
+    buy_price: 20gp
+    availability: city
+    category: saddle
+  - id: exotic
+    name: Exotic
+    buy_price: 60gp
+    availability: city
+    category: saddle
+  - id: saddlebags
+    name: Saddlebags
+    buy_price: 4gp
+    availability: village
+  - id: sled
+    name: Sled
+    buy_price: 20gp
+    availability: village
+  - id: carriage
+    name: Carriage
+    buy_price: 100gp
+    availability: town
+  - id: cart
+    name: Cart
+    buy_price: 15gp
+    availability: village
+  - id: chariot
+    name: Chariot
+    buy_price: 250gp
+    availability: city

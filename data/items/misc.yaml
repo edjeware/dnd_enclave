@@ -1,0 +1,357 @@
+items:
+  - id: abacus
+    name: Abacus
+    buy_price: 2gp
+    sell_price: 1gp
+    availability: town
+  - id: acid_vial
+    name: Acid Vial
+    buy_price: 25gp
+    sell_price: 12gp
+    availability: village
+  - id: alms_box
+    name: Alms Box
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: village
+  - id: antitoxin_vial
+    name: Antitoxin Vial
+    buy_price: 50gp
+    sell_price: 25gp
+    availability: village
+  - id: backpack
+    name: Backpack
+    buy_price: 2gp
+    sell_price: 1gp
+    availability: village
+  - id: barrel
+    name: Barrel
+    buy_price: 2gp
+    sell_price: 1gp
+    availability: village
+  - id: basic_poison_vial
+    name: Basic Poison
+    buy_price: 100gp
+    sell_price: 50gp
+    availability: village
+  - id: basket
+    name: Basket
+    buy_price: 4sp
+    sell_price: 2sp
+    availability: village
+  - id: bedroll
+    name: Bedroll
+    buy_price: 1gp
+    sell_price: 50sp
+    availability: village
+  - id: bell
+    name: Bell
+    buy_price: 1gp
+    sell_price: 5sp
+    availability: village
+  - id: blanket
+    name: Blanket
+    buy_price: 5sp
+    sell_price: 25cp
+    availability: village
+  - id: censer
+    name: Censer
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: village
+  - id: chalk
+    name: Chalk (1 piece)
+    buy_price: 1cp
+    sell_price: 1cp
+    availability: village
+  - id: chest
+    name: Chest
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: village
+  - id: flask_or_tankard
+    name: Flask or Tankard
+    buy_price: 2cp
+    sell_price: 1cp
+    availability: village
+  - id: grappling_hook
+    name: Grappling Hook
+    buy_price: 2gp
+    sell_price: 1gp
+    availability: village
+  - id: glass_bottle
+    name: Glass Bottle
+    buy_price: 2gp
+    sell_price: 1gp
+    availability: village
+  - id: hourglass
+    name: Hourglass
+    buy_price: 25gp
+    sell_price: 12gp
+    availability: city
+  - id: iron_pot
+    name: Iron Pot
+    buy_price: 2gp
+    sell_price: 1gp
+    availability: town
+  - id: ironspikes
+    name: Ironspikes
+    buy_price: 1gp
+    sell_price: 5sp
+    availability: town
+  - id: ink_and_pen
+    name: Ink & Pen
+    buy_price: 10gp
+    sell_price: 5gp
+    availability: city
+  - id: jug_or_pitcher
+    name: Jug or Pitcher
+    buy_price: 2cp
+    sell_price: 1cp
+    availability: village
+  - id: manacles
+    name: Manacles
+    buy_price: 2gp
+    sell_price: 1gp
+    availability: town
+  - id: merchants_scale
+    name: Merchant's Scale
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: town
+  - id: paper
+    name: Paper (1 sheet)
+    buy_price: 2sp
+    sell_price: 1sp
+    availability: city
+  - id: parchment
+    name: Parchment (1 sheet)
+    buy_price: 1sp
+    sell_price: 5cp
+    availability: town
+  - id: perfume_vial
+    name: Perfume Vial
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: village
+  - id: pole
+    name: Pole (10 ft)
+    buy_price: 5cp
+    sell_price: 2cp
+    availability: village
+  - id: portable_ram
+    name: Portable Ram
+    buy_price: 4gp
+    sell_price: 2gp
+    availability: city
+  - id: pouch
+    name: Pouch
+    buy_price: 5sp
+    sell_price: 2sp
+    availability: village
+  - id: silk_rope
+    name: Silk Rope (50 ft)
+    buy_price: 10gp
+    sell_price: 5gp
+    availability: city
+  - id: sack
+    name: Sack
+    buy_price: 1cp
+    sell_price: 1cp
+    availability: village
+  - id: soap
+    name: Soap
+    buy_price: 2cp
+    sell_price: 1cp
+    availability: town
+  - id: spyglass
+    name: Spyglass
+    buy_price: 1000gp
+    sell_price: 500gp
+    availability: town
+  - id: two_person_tent
+    name: Two-Person Tent
+    buy_price: 2gp
+    sell_price: 1gp
+    availability: town
+  - id: vial
+    name: Vial
+    buy_price: 1gp
+    sell_price: 5sp
+    availability: town
+
+  - id: common_clothes
+    name: Common Clothes
+    buy_price: 5sp
+    sell_price: 25cp
+    availability: village
+  - id: costume_clothes
+    name: Costume Clothes
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: city
+  - id: fine_clothes
+    name: Fine Clothes
+    buy_price: 15gp
+    sell_price: 7gp
+    availability: city
+  - id: rations
+    name: Rations (1 day)
+    buy_price: 5sp
+    sell_price: 25cp
+    availability: village
+  - id: robes
+    name: Robes
+    buy_price: 1gp
+    sell_price: 5sp
+    availability: town
+  - id: travelers_clothes
+    name: Traveler's Clothes
+    buy_price: 2gp
+    sell_price: 1gp
+    availability: village
+  - id: disguise_kit
+    name: Disguise Kit
+    buy_price: 25gp
+    sell_price: 12gp
+    availability: town
+  - id: forgery_kit
+    name: Forgery Kit
+    buy_price: 15gp
+    sell_price: 7gp
+    availability: village
+  - id: dice_set
+    name: Dice Set
+    buy_price: 1sp
+    sell_price: 5cp
+    availability: village
+    category: Gaming Set
+  - id: playing_card_set
+    name: Playing Card Set
+    buy_price: 5sp
+    sell_price: 25cp
+    availability: village
+    category: Gaming Set
+  - id: amulet
+    name: Amulet
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: village
+    category: Holy Symbol
+  - id: emblem
+    name: Emblem
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: village
+    category: Holy Symbol
+  - id: reliquary
+    name: Reliquary
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: village
+    category: Holy Symbol
+  - id: flask_of_holy_water
+    name: Flask of Holy Water
+    buy_price: 25gp
+    sell_price: 12gp
+    availability: village
+  - id: incense
+    name: Incense (1 block)
+    buy_price: 1cp
+    sell_price: 1cp
+    availability: village
+  - id: scripture_book
+    name: Scripture Book
+    buy_price: 25gp
+    sell_price: 12gp
+    availability: village
+
+  - id: gemstone_appraisal
+    name: Gemstone Appraisal (3 gems)
+    buy_price: 5gp
+    availability: village
+  - id: resizing_jewelery
+    name: Resizing Jewelery
+    buy_price: 10gp
+    availability: village
+  - id: jewelery
+    name: Jewelery
+    buy_formula: '{gem_value}+50gp'
+    sell_price: 1sp
+    availability: village
+  - id: stonecutting
+    name: Stonecutting
+    buy_price: 10gp
+    buy_formula: '{gem_value}*0.25gp'
+    availability: town
+  - id: exquisite_necklace_or_amulet
+    name: Exquisite Necklace/Amulet
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: town
+  - id: mundane_necklace_or_amulet
+    name: Mundane Necklace/Amulet
+    buy_price: 5sp
+    sell_price: 25cp
+    availability: village
+  - id: exquisite_earrings
+    name: Exquisite Earrings
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: town
+  - id: mundane_earrings
+    name: Mundane Earrings
+    buy_price: 4sp
+    sell_price: 2sp
+    availability: village
+  - id: exquisite_ring
+    name: Exquisite Ring
+    buy_price: 3gp
+    sell_price: 15sp
+    availability: town
+  - id: mundane_ring
+    name: Mundane Ring
+    buy_price: 3sp
+    sell_price: 15cp
+    availability: village
+  - id: signet_ring
+    name: Signet Ring
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: village
+  - id: bagpipes
+    name: Bagpipes
+    buy_price: 30gp
+    sell_price: 15gp
+    availability: city
+    category: Musical Instrument
+  - id: drums
+    name: Drums
+    buy_price: 6gp
+    sell_price: 3gp
+    availability: town
+    category: Musical Instrument
+  - id: flute
+    name: Flute
+    buy_price: 2gp
+    sell_price: 1gp
+    availability: city
+    category: Musical Instrument
+  - id: lute
+    name: Lute
+    buy_price: 15gp
+    sell_price: 7gp
+    availability: town
+    category: Musical Instrument
+  - id: lyre
+    name: Lyre
+    buy_price: 30gp
+    sell_price: 15gp
+    availability: city
+    category: Musical Instrument
+  - id: horn
+    name: Horn
+    buy_price: 3gp
+    sell_price: 15sp
+    availability: city
+    category: Musical Instrument

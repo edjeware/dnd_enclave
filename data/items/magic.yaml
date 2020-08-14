@@ -1,0 +1,270 @@
+items:
+  - id: component_pouch
+    name: Component Pouch
+    buy_price: 25gp
+    sell_price: 12gp
+    availability: city
+  - id: crystal
+    name: Crystal
+    buy_price: 10gp
+    sell_price: 5gp
+    availability: village
+    category: Arcane Focus
+  - id: orb
+    name: Orb
+    buy_price: 20gp
+    sell_price: 10gp
+    availability: town
+    category: Arcane Focus
+  - id: rod
+    name: Rod
+    buy_price: 10gp
+    sell_price: 5gp
+    availability: village
+    category: Arcane Focus
+  - id: staff
+    name: Staff
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: village
+    category: Arcane Focus
+  - id: wand
+    name: Wand
+    buy_price: 10gp
+    sell_price: 5gp
+    availability: village
+    category: Arcane Focus
+  - id: sprig_of_mistletoe
+    name: Sprig of Mistletoe
+    buy_price: 1gp
+    sell_price: 5sp
+    availability: village
+    category: Druidic Focus
+  - id: totem
+    name: Totem
+    buy_price: 1gp
+    sell_price: 5sp
+    availability: town
+    category: Druidic Focus
+  - id: wooden_staff
+    name: Wooden Staff
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: village
+    category: Druidic Focus
+  - id: yew_wand
+    name: Yew Wand
+    buy_price: 10gp
+    sell_price: 5gp
+    availability: town
+    category: Druidic Focus
+
+  - id: spellbook
+    name: Spellbook
+    buy_price: 50gp
+    sell_price: 25gp
+  - id: cure_wounds
+    name: Cure Wounds (Level 1)
+    buy_price: 10gp
+    availability: village
+  - id: gentle_repose
+    name: Gentle Repose (Level 2)
+    buy_price: 50gp
+    availability: village
+  - id: lesser_restoration
+    name: Lesser Restoration (Level 2)
+    buy_price: 50gp
+    availability: village
+  - id: remove_curse
+    name: Remove Curse (Level 3)
+    buy_price: 100gp
+    availability: town
+  - id: revivify
+    name: Revivify (Level 3)
+    buy_price: 400gp
+    availability: city
+  - id: raise_dead
+    name: Raise Dead (Level 5)
+    buy_price: 1000gp
+    availability: city
+  - id: magic_appraisal
+    name: Magic Appraisal (Identify)
+    buy_price: 100gp
+    availability: village
+  - id: potion_of_healing
+    name: Potion of Healing
+    buy_price: 50gp
+    sell_price: 25gp
+    availability: village
+    rarity: Common
+  - id: philter_of_love
+    name: Philter of Love
+    buy_price: 90gp
+    sell_price: 45gp
+    availability: town
+    rarity: Uncommon
+  - id: potion_of_poison
+    name: Potion of Poison
+    buy_price: 100gp
+    sell_price: 50gp
+    availability: town
+    rarity: Uncommon
+  - id: elixir_of_health
+    name: Elixir of Health
+    buy_price: 120gp
+    sell_price: 60gp
+    availability: city
+    rarity: Rare
+  - id: potion_of_fire_breath
+    name: Potion of Fire Breath
+    buy_price: 150gp
+    sell_price: 75gp
+    availability: town
+    rarity: Uncommon
+  - id: potion_of_greater_healing
+    name: Potion of Greater Healing
+    buy_price: 150gp
+    sell_price: 75gp
+    availability: town
+    rarity: Uncommon
+  - id: potion_of_climbing
+    name: Potion of Climbing
+    buy_price: 180gp
+    sell_price: 90gp
+    availability: village
+    rarity: Common
+  - id: potion_of_heroism
+    name: Potion of Heroism
+    buy_price: 180gp
+    sell_price: 90gp
+    availability: city
+    rarity: Rare
+  - id: potion_of_invisibility
+    name: Potion of Invisibility
+    buy_price: 180gp
+    sell_price: 90gp
+    availability: city
+    rarity: Very Rare
+  - id: potion_of_mind_reading
+    name: Potion of Mind Reading
+    buy_price: 180gp
+    sell_price: 90gp
+    availability: city
+    rarity: Rare
+  - id: potion_of_water_breathing
+    name: Potion of Water Breathing
+    buy_price: 180gp
+    sell_price: 90gp
+    availability: town
+    rarity: Uncommon
+  - id: potion_of_animal_friendship
+    name: Potion of Animal Friendship
+    buy_price: 200gp
+    sell_price: 100gp
+    availability: town
+    rarity: Uncommon
+  - id: potion_of_diminution
+    name: Potion of Diminution
+    buy_price: 270gp
+    sell_price: 135gp
+    availability: city
+    rarity: Rare
+  - id: potion_of_growth
+    name: Potion of Growth
+    buy_price: 270gp
+    sell_price: 135gp
+    availability: town
+    rarity: Uncommon
+  - id: potion_of_gaseous_form
+    name: Potion of Gaseous Form
+    buy_price: 300gp
+    sell_price: 150gp
+    availability: city
+    rarity: Rare
+  - id: potion_of_resistance
+    name: Potion of Resistance
+    buy_price: 300gp
+    sell_price: 150gp
+    availability: town
+    rarity: Uncommon
+  - id: potion_of_speed
+    name: Potion of Speed
+    buy_price: 400gp
+    sell_price: 200gp
+    availability: city
+    rarity: Very Rare
+  - id: potion_of_superior_healing
+    name: Potion of Superior Healing
+    buy_price: 450gp
+    sell_price: 225gp
+    availability: city
+    rarity: Very Rare
+  - id: potion_of_flying
+    name: Potion of Flying
+    buy_price: 500gp
+    sell_price: 250gp
+    availability: city
+    rarity: Very Rare
+  - id: potion_of_clairvoyance
+    name: Potion of Clairvoyance
+    buy_price: 960gp
+    sell_price: 480gp
+    availability: city
+    rarity: Rare
+  - id: potion_of_vitality
+    name: Potion of Vitality
+    buy_price: 960gp
+    sell_price: 480gp
+    availability: city
+    rarity: Very Rare
+  - id: potion_of_supreme_healing
+    name: Potion of Supreme Healing
+    buy_price: 1350gp
+    sell_price: 675gp
+    availability: city
+    rarity: Very Rare
+  - id: potion_of_invulnerability
+    name: Potion of Invulnerability
+    buy_price: 3840gp
+    sell_price: 1920gp
+    availability: city
+    rarity: rare
+
+  - id: cantrip_scroll
+    name: Common (Cantrip)
+    buy_price: 10gp
+    sell_price: 5gp
+    availability: village
+    cartegory: Spell Scrolls
+  - id: level_one_scroll
+    name: Common (Level 1)
+    buy_price: 60gp
+    sell_price: 30gp
+    availability: village
+    cartegory: Spell Scrolls
+  - id: level_two_scroll
+    name: Uncommon (Level 2)
+    buy_price: 120gp
+    sell_price: 60gp
+    availability: town
+    cartegory: Spell Scrolls
+  - id: level_three_scroll
+    name: Uncommon (Level 3)
+    buy_price: 200gp
+    sell_price: 100gp
+    availability: town
+    cartegory: Spell Scrolls
+  - id: level_four_scroll
+    name: Rare (Level 4)
+    buy_price: 320gp
+    sell_price: 160gp
+    availability: city
+    cartegory: Spell Scrolls
+  - id: level_five_scroll
+    name: Rare (Level 5)
+    buy_price: 640gp
+    sell_price: 320gp
+    availability: city
+    cartegory: Spell Scrolls
+
+

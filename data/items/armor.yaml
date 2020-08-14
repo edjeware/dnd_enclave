@@ -1,0 +1,85 @@
+items:
+  - id: padded_armor
+    name: Padded
+    buy_price: 5gp
+    sell_price: 25sp
+    availability: town
+    category: light_armor
+  - id: leather_armor
+    name: Leather
+    buy_price: 10gp
+    sell_price: 5gp
+    availability: town
+    category: light_armor
+  - id: studded_leather_armor
+    name: Studded Leather
+    buy_price: 45gp
+    sell_price: 22gp
+    availability: city
+    category: light_armor
+  - id: chain_shirt
+    name: Chain Shirt
+    buy_price: 50gp
+    sell_price: 25gp
+    availability: village
+    category: medium_armor
+  - id: hide_armor
+    name: Hide
+    buy_price: 10gp
+    sell_price: 5gp
+    availability: village
+    category: medium_armor
+  - id: scale_mail
+    name: Scale Mail
+    buy_price: 50gp
+    sell_price: 25gp
+    availability: town
+    category: medium_armor
+  - id: breastplate
+    name: Breastplate
+    buy_price: 400gp
+    sell_price: 200gp
+    availability: village
+    category: medium_armor
+  - id: half_plate_armor
+    name: Half Plate
+    buy_price: 750gp
+    sell_price: 375gp
+    availability: city
+    category: medium_armor
+  - id: ring_mail
+    name: Ring Mail
+    buy_price: 30gp
+    sell_price: 15gp
+    availability: town
+    category: heavy_armor
+  - id: chain_mail
+    name: Chain Mail
+    buy_price: 75gp
+    sell_price: 37gp
+    availability: village
+    category: heavy_armor
+  - id: splint_armor
+    name: Splint
+    buy_price: 200gp
+    sell_price: 100gp
+    availability: town
+    category: heavy_armor
+  - id: plate_armor
+    name: Plate
+    buy_price: 1500gp
+    sell_price: 750gp
+    availability: city
+    category: heavy_armor
+  - id: shield
+    name: Shield
+    buy_price: 10gp
+    sell_price: 5gp
+    availability: village
+    category: shield
+  - id: large_shield
+    name: Large Shield
+    buy_price: 80gp
+    sell_price: 40gp
+    availability: city
+    category: shield

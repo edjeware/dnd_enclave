@@ -1,0 +1,21 @@
+businesses:
+
+  - merchant_category: unknown
+    merchant_title: Shady Dealer
+    groups:
+      adventuring_gear:
+        - acid_vial
+        - antitoxin_vial
+        - caltrops
+        - costume_clothes
+        - manacles
+        - flask_oil
+        - basic_poison_vial
+        - portable_ram
+      tools:
+        - disguise_kit
+        - forgery_kit
+        - dice_set
+        - playing_card_set
+        - poisoners_kit
+        - thieves_tools

@@ -1,0 +1,87 @@
+businesses:
+
+  - merchant_category: unknown
+    merchant_title: Blacksmith / Armory
+    groups:
+      adventuring_gear:
+        - ball_bearings
+        - bell
+        - block_and_tackle
+        - chain
+        - crowbar
+        - grappling_hook
+        - hammer
+        - sledge_hammer
+        - hunting_trap
+        - lamp
+        - lantern
+        - lock
+        - manacles
+        - mirror
+        - miners_pick
+        - piton
+        - iron_pot
+        - ironspikes
+        - whetstone
+      trade_goods:
+        - iron
+        - copper
+        - silver
+        - gold
+        - platinum
+      tools:
+        - carpenters_tools
+        - masons_tools
+        - smiths_tools
+        - tinkers_tools
+        - horn
+      armor:
+        - studded_leather_armor
+        - chain_shirt
+        - scale_mail
+        - breastplate
+        - half_plate_armor
+        - ring_mail
+        - chain_mail
+        - splint_armor
+        - plate_armor
+        - shield
+      weapons:
+        - dagger
+        - handaxe
+        - javelin
+        - light_hammer
+        - sickle
+        - spear
+        - battleaxe
+        - flail
+        - glaive
+        - greataxe
+        - greatsword
+        - halberd
+        - lance
+        - longsword
+        - maul
+        - morningstar
+        - pike
+        - rapier
+        - scimitar
+        - shortsword
+        - trident
+        - war_pick
+        - warhammer
+
+  - merchant_category: unknown
+    merchant_title: Fletcher / Bowyer
+    groups:
+      ammunition:
+        - arrows
+        - crossbow_bolts
+        - crossbow_bolt_case
+        - quiver
+      weapons:
+        - light_crossbow
+        - shortbow
+        - hand_crossbow
+        - heavy_crossbow
+        - longbow

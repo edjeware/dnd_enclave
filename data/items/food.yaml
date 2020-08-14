@@ -1,0 +1,248 @@
+items:
+  - id: crisped_worm_and_potatoes
+    name: Crisped Worm and Potatoes
+    buy_price: 3cp
+    availability: village
+    category: squalid
+  - id: frogs_on_skewers
+    name: Frogs on Skewers
+    buy_price: 3cp
+    availability: village
+    category: squalid
+  - id: green_chili_stew
+    name: Green Chili Stew
+    buy_price: 3cp
+    availability: village
+    category: squalid
+  - id: grilled_snake_and_macadamia
+    name: Grilled Snake and Macadamia
+    buy_price: 3cp
+    availability: village
+    category: squalid
+  - id: humble_pie
+    name: Humble Pie (tripe or cow heel)
+    buy_price: 3cp
+    availability: village
+    category: squalid
+  - id: lizard_gruel_with_nutbread
+    name: Lizard Gruel with Nutbread
+    buy_price: 3cp
+    availability: village
+    category: squalid
+  - id: barbecued_gopher_legs
+    name: Barbecued Gopher Legs
+    buy_price: 6cp
+    availability: village
+    category: poor
+  - id: bog-beetle dumplings
+    name: Bog-beetle Dumplings
+    buy_price: 6cp
+    availability: village
+    category: poor
+  - id: bread-bowl stew
+    name: Bread-bowl Stew
+    buy_price: 6cp
+    availability: village
+    category: poor
+  - id: leg_of_mutton_and_goose_eggs
+    name: Leg of Mutton and Goose Eggs
+    buy_price: 6cp
+    availability: village
+    category: poor
+  - id: mushroom_stew_with_bread
+    name: Mushroom Stew with Bread
+    buy_price: 6cp
+    availability: village
+    category: poor
+  - id: rabbit_and_baked_pumpkin
+    name: Rabbit and Baked Pumpkin
+    buy_price: 6cp
+    availability: village
+    category: poor
+  - id: squash_and_fish_soup
+    name: Squash and Fish Soup
+    buy_price: 6cp
+    availability: village
+    category: poor
+  - id: broiled_salmon_and_potatoes
+    name: Broiled Salmon and Potatoes
+    buy_price: 3sp
+    availability: town
+    category: modest
+  - id: cheese_pie_and_onion_soup
+    name: Cheese Pie and Onion Soup
+    buy_price: 3sp
+    availability: town
+    category: modest
+  - id: grilled_wild_boar_chops
+    name: Grilled Wild Boar Chops
+    buy_price: 3sp
+    availability: town
+    category: modest
+  - id: rabbit_stew_and_crackers
+    name: Rabbit Stew and Crackers
+    buy_price: 3sp
+    availability: village
+    category: modest
+  - id: roast_chicken_and_potatoes
+    name: Roast Chicken and Potatoes
+    buy_price: 3sp
+    availability: village
+    category: modest
+  - id: baked_loin_of_pork_with_gravy
+    name: Baked Loin of Pork with Gravy
+    buy_price: 8sp
+    availability: village
+    category: comfortable
+  - id: beef_steak_and_kidney_pie
+    name: Beef Steak and Kidney Pie
+    buy_price: 8sp
+    availability: village
+    category: comfortable
+  - id: buffaloaf_and_honeyed_corn
+    name: Buffaloaf and Honeyed Corn
+    buy_price: 8sp
+    availability: village
+    category: comfortable
+  - id: elven_bread
+    name: Elven Bread
+    buy_price: 8sp
+    availability: village
+    category: comfortable
+  - id: honey_braised_boar_ribs
+    name: Honey Braised Boar Ribs
+    buy_price: 8sp
+    availability: village
+    category: comfortable
+  - id: pork_chop_and_curds
+    name: Pork Chop and Curds
+    buy_price: 8sp
+    availability: village
+    category: comfortable
+  - id: rack_of_lamb_platter
+    name: Rack of Lamb Platter
+    buy_price: 8sp
+    availability: village
+    category: comfortable
+  - id: wealthy_barbecued_tiger_fish_and_papaya
+    name: Wealthy Barbecued Tiger Fish and Papaya
+    buy_price: 2gp
+    availability: city
+    category: comfortable
+  - id: chocolate_covered_ants_and_roast_pelican
+    name: Chocolate Covered Ants and Roast Pelican
+    buy_price: 2gp
+    availability: city
+    category: comfortable
+  - id: smoked_salmon_and_wild_berries
+    name: Smoked Salmon and Wild Berries
+    buy_price: 2gp
+    availability: town
+    category: comfortable
+  - id: stuffed_trout, cabbage, succotash and plum pudding
+    name: Stuffed Trout, Cabbage, Succotash and Plum Pudding
+    buy_price: 2gp
+    availability: city
+    category: comfortable
+  - id: roast_stag_in_antler_sauce
+    name: Roast Stag in Antler Sauce
+    buy_price: 4gp
+    availability: city
+    category: aristocratic
+  - id: spiced_monkey_tail_and_cashews
+    name: Spiced Monkey Tail and Cashews
+    buy_price: 4gp
+    availability: city
+    category: aristocratic
+
+  - id: goblinspit_ale
+    name: Goblinspit Ale
+    buy_price: 2cp
+    availability: village
+    category: cheap
+  - id: grog
+    name: Grog
+    buy_price: 2cp
+    availability: village
+    category: cheap
+  - id: turnip_wine
+    name: Turnip Wine
+    buy_price: 2cp
+    availability: village
+    category: cheap
+  - id: dwarven_ale
+    name: Dwarven Ale
+    buy_price: 4sp
+    availability: village
+    category: ale
+  - id: kings_ale
+    name: King's Ale
+    buy_price: 4sp
+    availability: village
+    category: ale
+  - id: spiced_ale
+    name: Spiced Ale
+    buy_price: 4sp
+    availability: village
+    category: ale
+  - id: trollbane_ale
+    name: Trollbane Ale
+    buy_price: 4sp
+    availability: village
+    category: ale
+  - id: desert_star_wine
+    name: Desert Star Wine
+    buy_price: 2sp
+    availability: village
+    category: wine
+  - id: wight_wine
+    name: Wight Wine
+    buy_price: 2sp
+    availability: village
+    category: wine
+  - id: fey_wine
+    name: Fey Wine
+    buy_price: 10gp
+    availability: town
+    category: Fine Wine
+  - id: lotus_leaf_wine
+    name: Lotus Leaf Wine
+    buy_price: 10gp
+    availability: city
+    category: Fine Wine
+  - id: stonesulder_wine
+    name: Stonesulder Wine
+    buy_price: 10gp
+    availability: city
+    category: Fine Wine
+  - id: wild_orchid_wine
+    name: Wild Orchid Wine
+    buy_price: 10gp
+    availability: town
+    category: Fine Wine
+  - id: bacon_beer
+    name: Bacon Beer
+    buy_price: 2sp
+    availability: village
+    category: Assorted Other Drinks
+  - id: berry_brandy
+    name: Berry Brandy
+    buy_price: 2gp
+    availability: town
+    category: Assorted Other Drinks
+  - id: cactus_spirits
+    name: Cactus Spirits
+    buy_price: 4sp
+    availability: village
+    category: Assorted Other Drinks
+  - id: honeysuckle_mead
+    name: Honeysuckle Mead
+    buy_price: 2gp
+    availability: town
+    category: Assorted Other Drinks
+  - id: scorpionweed_reserve
+    name: Scorpionweed Reserve
+    buy_price: 10gp
+    availability: city
+    category: Assorted Other Drinks
+

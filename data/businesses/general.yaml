@@ -1,0 +1,126 @@
+businesses:
+
+  - merchant_category: unknown
+    merchant_title: Adventuring Supplier
+    groups:
+      tools:
+        - backpack
+        - bedroll
+        - block_and_tackle
+        - glass_bottle
+        - candle
+        - chain
+        - chest
+        - climbers_kit
+        - travelers_clothes
+        - crowbar
+        - flask_or_tankard
+        - grappling hook
+        - hammer
+        - healers_kit
+        - hourglass
+        - hunting_trap
+        - ink_and_pen
+        - jug_or_pitcher
+        - ladder
+        - lantern
+        - lock
+        - mess_kit
+        - mirror
+        - paper
+        - parchment
+        - miners_pick
+        - piton
+        - pole
+        - iron_pot
+        - pouch
+        - quiver
+        - hempen_rope
+        - silk_rope
+        - sack
+        - shovel
+        - spyglass
+        - two_person_tent
+        - tinderbox
+        - torch
+        - vial
+        - waterskin
+      artisans_tools:
+        - cartographers_tools
+        - jewelers_tools
+        - tinkers_tools
+        - herbalism_kit
+        - navigators_tools
+      armor:
+        - padded_armor
+        - leather_armor
+        - studded_leather_armor
+        - hide_armor
+      ammunition:
+        - arrows
+        - blowgun_needles
+        - crossbow_bolts
+        - sling_bullets
+      weapons:
+        - blowgun
+        - club
+        - dagger
+        - dart
+        - greatclub
+        - hand_crossbow
+        - handaxe
+        - heavy_crossbow
+        - light_crossbow
+        - light_hammer
+        - longbow
+        - quarterstaff
+        - shortbow
+        - sling
+        - whip
+
+  - merchant_category: unknown
+    merchant_title: General Store
+    groups:
+      adventuring_gear:
+        - abacus
+        - barrel
+        - basket
+        - blanket
+        - glass_bottle
+        - bucket
+        - candle
+        - chest
+        - common_clothes
+        - fine_clothes
+        - flask_or_tankard
+        - hammer
+        - ink_and_pen
+        - jug_or_pitcher
+        - ladder
+        - lantern
+        - lock
+        - mess_kit
+        - mirror
+        - paper
+        - parchment
+        - miners_pick
+        - iron_pot
+        - pouch
+        - hempen_rope
+        - silk_rope
+        - sack
+        - merchants_scale
+        - shovel
+        - soap
+        - vial
+      tools:
+        - carpenters_tools
+        - cobblers_tools
+        - cooks_utensils
+        - glassblowers_tools
+        - leatherworkers_tools
+        - masons_tools
+        - potters_tools
+        - smiths_tools
+        - weavers_tools
+        - woodcarvers_tools

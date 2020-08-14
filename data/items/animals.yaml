@@ -1,0 +1,74 @@
+items:
+  - id: chicken
+    name: 1 Chicken
+    buy_price: 2cp
+    availability: village
+  - id: goat
+    name: 1 goat
+    buy_price: 1gp
+    availability: village
+  - id: sheep
+    name: 1 sheep
+    buy_price: 2gp
+    availability: village
+  - id: cow
+    name: 1 cow
+    buy_price: 10gp
+    availability: village
+  - id: pig
+    name: 1 pig
+    buy_price: 3gp
+    availability: village
+  - id: ox
+    name: 1 ox
+    buy_price: 15gp
+    availability: village
+  - id: barding
+    name: Barding
+    buy_formula: '{armor_cost}*4'
+    availability: village
+  - id: bit_and_bridle
+    name: bit_and_bridle
+    buy_price: 2gp
+    availability: village
+  - id: feed
+    name: Feed (per day)
+    buy_price: 5cp
+    availability: village
+  - id: stabling
+    name: Stabling (per day)
+    buy_price: 5sp
+    availability: village
+  - id: donkey_or_mule
+    name: Donkey or Mule 40 ft 420 lb
+    buy_price: 8gp
+    availability: village
+  - id: pony
+    name: Pony 40 ft 225 lb
+    buy_price: 30gp
+    availability: village
+  - id: draft_horse
+    name: Horse, draft 40 ft 540 lb
+    buy_price: 50gp
+    availability: village
+  - id: riding_horse
+    name: Horse, riding 60 ft 480 lb
+    buy_price: 75gp
+    availability: town
+  - id: warhorse
+    name: Warhorse 60 ft 540 lb
+    buy_price: 400gp
+    availability: city
+  - id: mastiff
+    name: Mastiff 40 ft 195 lb
+    buy_price: 25gp
+    availability: town
+  - id: camel
+    name: Camel 50 ft 480 lb
+    buy_price: 50gp
+    availability: village
+  - id: elephant
+    name: Elephant 40 ft 1,320 lb
+    buy_price: 200gp
+    availability: city
+

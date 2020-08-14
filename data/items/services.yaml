@@ -1,0 +1,85 @@
+items:
+  - id: inn_stay_squalid
+    name: Squalid
+    buy_price: 7cp
+    availability: city
+    category: Inn Stay per Night
+  - id: inn_stay_poor
+    name: Poor
+    buy_price: 1sp
+    availability: village
+    category: Inn Stay per Night
+  - id: inn_stay_modest
+    name: Modest
+    buy_price: 5sp
+    availability: village
+    category: Inn Stay per Night
+  - id: inn_stay_comfortable
+    name: Comfortable
+    buy_price: 8sp
+    availability: town
+    category: Inn Stay per Night
+  - id: inn_stay_wealthy
+    name: Wealthy
+    buy_price: 2gp
+    availability: city
+    category: Inn Stay per Night
+  - id: inn_stay_aristocratic
+    name: Aristocratic
+    buy_price: 4gp
+    availability: city
+    category: Inn Stay per Night
+  - id: local_map
+    name: Local (10 miles)
+    buy_price: 10gp
+    availability: village
+  - id: regional_map
+    name: Regional (50 miles)
+    buy_price: 20gp
+    availability: town
+  - id: provincial_map
+    name: Provincial (100 miles)
+    buy_price: 50gp
+    availability: town
+  - id: country_map
+    name: Country-wide (100-500 miles)
+    buy_price: 100gp
+    availability: city
+  - id: world_map
+    name: Known World (1000 miles)
+    buy_price: 500gp
+    availability: city
+  - id: map_case
+    name: Map Case
+    buy_price: 1gp
+    availability: village
+  - id: waterproof_map_case
+    name: Waterproof Map Case
+    buy_price: 5gp
+    availability: town
+  - id: metal_waterproof_map_case
+    name: Metal Waterproof Map Case
+    buy_price: 20gp
+    availability: city
+  - id: coach_intra_city
+    name: Coach (within a city)
+    buy_formula: '{miles}*1cp'
+    availability: village
+    category: Coach Cab
+  - id: coach_inter_city
+    name: Coach (between towns)
+    buy_formula: '{miles}*3cp'
+    availability: city
+    category: Coach Cab
+  - id: skilled_hireling
+    name: Skilled Hireling (1 day)
+    buy_price: 10gp
+    availability: city
+  - id: untrained_hireling
+    name: Untrained Hireling (1 day)
+    buy_price: 1gp
+    availability: city
+  - id: messenger
+    name: Messenger
+    buy_formula: '{miles}*2cp'
+    availability: city

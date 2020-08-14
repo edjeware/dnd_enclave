@@ -1,0 +1,58 @@
+businesses:
+
+  - merchant_category: jeweler
+    merchant_title: Jeweler / Stonecutter
+    groups:
+      adventuring_gear:
+        - exquisite_necklace_or_amulet
+        - mundane_necklace_or_amulet
+        - crystal
+        - orb
+        - exquisite_earrings
+        - mundane_earrings
+        - exquisite_ring
+        - mundane_ring
+        - signet_ring
+      tools:
+        - jewelers_tools
+      services:
+        - gemstone_appraisal
+        - resizing_jewlery
+        - stonecutting
+
+  - merchant_category: unknown
+    merchant_title: Leatherworker
+    groups:
+      adventuring_gear:
+        - waterskin
+      tools:
+        - cobblers_tools
+        - leatherworkers_tools
+        - bagpipes
+        - drums
+      armor:
+        - leather_armor
+        - studded_leather_armor
+        - hide_armor
+        - shield
+      weapons:
+        - sling
+
+  - merchant_category: unknown
+    merchant_title: Tailor / Textiles
+    groups:
+      adventuring_gear:
+        - backpack
+        - bedroll
+        - blanket
+        - common_clothes
+        - component_pouch
+        - costume_clothes
+        - fine_clothes
+        - pouch
+        - robes
+        - sack
+        - travelers_clothes
+        - two_person_tent
+      tools:
+        - weavers_tools

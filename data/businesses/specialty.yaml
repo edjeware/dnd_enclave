@@ -1,0 +1,93 @@
+businesses:
+
+  - merchant_category: unknown
+    merchant_title: Cartographer
+    groups:
+      maps:
+        - local_map
+        - regional_map
+        - provincial_map
+        - country_map
+        - world_map
+      items:
+        - map_case
+        - waterproof_map_case
+        - metal_waterproof_map_case
+
+  - merchant_category: unknown
+    merchant_title: Shipyard
+    groups:
+      vessel:
+        - rowboat
+        - keelboat
+        - sailing_ship
+        - longship
+        - warship
+        - galley
+        - man_of_war
+      services:
+        - ships_passage
+
+  - merchant_category: unknown
+    merchant_title: Trader
+    groups:
+      trade_goods:
+        - pound_of_wheat
+        - pound_of_flour
+        - pound_of_salt
+        - square_yard_of_canvas
+        - square_yard_of_cotton_cloth
+        - pound_of_ginger
+        - pound_of_cinnamon
+        - pound_of_pepper
+        - pound_of_cloves
+        - square_yard_of_linen
+        - square_yard_of_silk
+        - pound_of_saffron
+        - chicken
+        - goat
+        - sheep
+        - cow
+        - pig
+        - ox
+
+  - merchant_category: unknown
+    merchant_title: Seige Workshop
+    groups:
+      seige_weapons:
+        - ballista_light
+        - ballista_med
+        - ballista_heavy
+        - mangonel_light
+        - mangonel_med
+        - mangonel_heavy
+        - trebuchet
+      special_ammunition:
+        - alchemist_fire
+        - caltrop_bundle
+        - chain_shot
+        - empty_bundle
+        - fire_barrel
+        - liquid_ice
+        - plague_bundle
+        - smoke_shot
+        - empty_vial_shot
+      equipment:
+        - bolt_magazine
+        - bolt_magazine_special
+        - bolt_magazine_large
+        - high_tension_rope
+        - range_finder
+        - spyglass
+        - auto_reloader
+        - replacement_parts_set
+        - special_replacement_parts
+        - ropespool
+        - ropespool_heavy
+        - rotating_base
+        - rotating_base_heavy
+        - shielding
+        - shielding_heavy
+        - manual_wench
+        - automatic_wench
+        - manual_wench_heavy
