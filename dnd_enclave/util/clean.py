@@ -1,9 +1,6 @@
-from pathlib import Path
-
 from ruamel.yaml import YAML
 
-
-PROJECT_ROOT = Path(__file__).parents[2]
+from .shared import PROJECT_ROOT
 
 
 class YAMLDoc:
