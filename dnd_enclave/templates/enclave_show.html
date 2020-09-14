@@ -3,34 +3,9 @@
 
 
 {% block content %}
-  <div class="row">
-    <div class="col-md-4">
-      <ul>
-        <li>
-          {% if not category %}
-            All
-          {% else %}
-            <a href="{{ url_for('enclave_show', enclave_id=enclave.id) }}">All</a>
-          {% endif %}
-        </li>
-        {% for _category in enclave.categories %}
-        <li>
-          {% if _category == category %}
-            {{ _category.name }}
-          {% else %}
-          <a href="{{ url_for('enclave_category', enclave_id=enclave.id, category=_category.name) }}">
-            {{ _category.name }}
-          </a></li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-    </div>
-
-    <div class="col-md-8">
-      <ul>
-      {% for building in buildings %}
-        <li>{{ building.id }} - {{ building.name }}</li>
-      {% endfor %}
-      </ul>
-    </div>
+  <ul>
+  {% for building in buildings %}
+    <li>{{ building.id }} - <a href="{{ url_for('building_show', building_id=building.id, enclave_id=enclave.id) }}">{{ building.name }}</a></li>
+  {% endfor %}
+  </ul>
 {% endblock %}

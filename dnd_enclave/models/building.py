@@ -21,3 +21,9 @@ class Building(db.Model):
         secondary=building_category_table,
     )
 
+    @classmethod
+    def by_ids(cls, building_id, enclave_id=None):
+        buildings = cls.query.filter_by(id=building_id)
+        if enclave_id is not None:
+            buildings = buildings.filter_by(enclave_id=enclave_id)
+        return buildings

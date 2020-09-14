@@ -30,3 +30,12 @@ def enclave_category(enclave_id, category):
         category=category,
         enclave=enclave,
     )
+
+@app.route('/enclaves/<int:enclave_id>/buildings/<int:building_id>')
+def building_show(enclave_id, building_id):
+    building = Building.by_ids(enclave_id=enclave_id, building_id=building_id).first()
+    return render_template(
+        "building_show.html",
+        building=building,
+        enclave=Enclave.query.get(enclave_id),
+    )

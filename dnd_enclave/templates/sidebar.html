@@ -1,0 +1,21 @@
+  {% if enclave %}
+  <ul>
+    <li>
+      {% if not category %}
+        All
+      {% else %}
+        <a href="{{ url_for('enclave_show', enclave_id=enclave.id) }}">All</a>
+      {% endif %}
+    </li>
+    {% for _category in enclave.categories %}
+    <li>
+      {% if _category == category %}
+        {{ _category.name }}
+      {% else %}
+      <a href="{{ url_for('enclave_category', enclave_id=enclave.id, category=_category.name) }}">
+        {{ _category.name }}
+      </a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+  {% endif %}
