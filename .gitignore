@@ -1,3 +1,4 @@
 *.pyc
 ngrok
 build
+tmp/

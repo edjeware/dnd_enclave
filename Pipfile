@@ -7,8 +7,8 @@ verify_ssl = true
 
 [packages]
 flask = "*"
-pyyaml = "*"
 flask-sqlalchemy = "*"
+ruamel-yaml = "*"
 
 [requires]
 python_version = "3.8"
