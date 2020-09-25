@@ -1,4 +1,4 @@
-import yaml
+from ruamel.yaml import YAML
 
 from ..app import db
 from ..models import Building, Category, Enclave
@@ -25,7 +25,8 @@ class EnclaveLoader:
         return self._buildings
 
     def load(self):
-        for entry in yaml.safe_load(open(self.source_filepath))["enclaves"]:
+        yaml = YAML()
+        for entry in yaml.load(open(self.source_filepath))["enclaves"]:
             enclave = Enclave.query.filter_by(name=entry["name"]).first()
             if not enclave:
                 enclave = Enclave(name=entry["name"])
