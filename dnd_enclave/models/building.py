@@ -1,6 +1,7 @@
 from sqlalchemy.orm import relationship
 
 from ..app import db
+from .item import Item
 
 building_category_table = db.Table(
     'building_category',
@@ -27,3 +28,7 @@ class Building(db.Model):
         if enclave_id is not None:
             buildings = buildings.filter_by(enclave_id=enclave_id)
         return buildings
+
+    @property
+    def inventory(self):
+        return Item.query.filter_by(Item.category.in_(self.categories))

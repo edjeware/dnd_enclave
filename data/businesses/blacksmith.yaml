@@ -1,6 +1,5 @@
 businesses:
-
-  - merchant_category: unknown
+  - merchant_category: blacksmith
     merchant_title: Blacksmith / Armory
     groups:
       adventuring_gear:

@@ -4,4 +4,11 @@
 
 {% block content %}
  {{ building.name }}
+
+ {% if building.inventory %}
+  
+  {% for item in building.inventory %}
+      {{ item }}
+  {% endfor %}
+ {% endif %}
 {% endblock %}
